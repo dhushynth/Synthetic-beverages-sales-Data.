@@ -19,3 +19,5 @@ Discount Percentage
 Cost Price - Making Cost for each product
 Profit - Profit for the product
 Selling Price - Sales
+
+![Image](https://github.com/user-attachments/assets/b2ce97d8-f908-4edd-bdb7-e03be1b27468)
